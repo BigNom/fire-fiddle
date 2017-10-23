@@ -1,7 +1,5 @@
 import React from 'react';
 import firebase from 'firebase'
-
-
 import Header from './Header'
 import Main from './Main'
 
